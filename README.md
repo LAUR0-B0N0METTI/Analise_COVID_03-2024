@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste estudo, estão sendo explorados os dados dos casos de COVID-19 no Brasil ao longo de 2024 até o mês de março, utilizando o conjunto de dados proveniente do arquivo CSV "HIST_PAINEL_COVIDBR_2024_Parte1_27fev2024" disposto para download no site do Ministério da Saúde. O  objetivo é fornecer uma análise aprofundada, revelando insights valiosos sobre a evolução da pandemia em diferentes níveis geográficos e temporais.
+Neste estudo estão sendo explorados os dados dos casos de COVID-19 no Brasil ao longo de 2024 até o mês de março, utilizando o conjunto de dados proveniente do arquivo CSV "HIST_PAINEL_COVIDBR_2024_Parte1_27fev2024" disposto para download no site do Ministério da Saúde. O  objetivo é fornecer uma análise aprofundada, revelando insights valiosos sobre a evolução da pandemia em diferentes níveis geográficos e temporais.
 
 ## Carregamento e Exploração dos Dados
 
@@ -16,22 +16,22 @@ dados_covid.info()
 
 A análise preliminar mostra a diversidade das variáveis presentes no conjunto de dados, permitindo-nos explorar a fundo as nuances dos impactos da pandemia.
 
-## Análise Exploratória dos Dados
+## Análise Exploratória dos Dados 
 
 ### Visualização Gráfica
 
    A análise gráfica revela tendências nos novos casos da variante, fornecendo insights sobre a disseminação e impacto dessa variante específica.
 
-1. **Novos Casos da Variante:**
+1. **Novos Casos da Variante:** <br>
 ![alt text](<Novos casos da variante-1.png>)
 
-2. **Casos Acumulados da Variante:**
+2. **Casos Acumulados da Variante:** <br>
 ![alt text](<Casos acumulados da variante-1.png>)
-
-3. **Novos obitos**
+ 
+3. **Novos obitos** <br>
 ![alt text](<Novos obitos-1.png>)
 
-4. **Obitos acumulados**
+4. **Obitos acumulados** <br>
 ![alt text](<Obitos acumulados-1.png>)
 
 
