@@ -23,16 +23,24 @@ A análise preliminar mostra a diversidade das variáveis presentes no conjunto 
    A análise gráfica revela tendências nos novos casos da variante, fornecendo insights sobre a disseminação e impacto dessa variante específica.
 
 1. **Novos Casos da Variante:** <br>
+<br>
 ![alt text](<Novos casos da variante-1.png>)
+<br>
 
 2. **Casos Acumulados da Variante:** <br>
+<br>
 ![alt text](<Casos acumulados da variante-1.png>)
+ <br>
  
 3. **Novos obitos** <br>
+<br>
 ![alt text](<Novos obitos-1.png>)
+<br>
 
 4. **Obitos acumulados** <br>
+<br>
 ![alt text](<Obitos acumulados-1.png>)
+<br>
 
 
 ## Estatísticas Descritivas
