@@ -1,4 +1,4 @@
-# Análise Detalhada dos Casos de COVID-19 no Brasil (2024)
+# Análise dos Casos de COVID-19 no Brasil (2024)
 
 ## Introdução
 
